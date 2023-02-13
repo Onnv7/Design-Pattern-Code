@@ -1,0 +1,16 @@
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\Factorry.exe
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\Factorry.deps.json
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\Factorry.runtimeconfig.json
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\Factorry.runtimeconfig.dev.json
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\Factorry.dll
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\ref\Factorry.dll
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\bin\Debug\net5.0\Factorry.pdb
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.csproj.AssemblyReference.cache
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.GeneratedMSBuildEditorConfig.editorconfig
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.AssemblyInfoInputs.cache
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.AssemblyInfo.cs
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.csproj.CoreCompileInputs.cache
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.dll
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\ref\Factorry.dll
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.pdb
+E:\SPKT - HCMUTE\HK6\Mau phan mem\T02\Code pattern\C#\Factorry\obj\Debug\net5.0\Factorry.genruntimeconfig.cache
